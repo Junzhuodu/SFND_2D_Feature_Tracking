@@ -1,0 +1,3 @@
+#1 : LOAD IMAGE (index:0) INTO BUFFER done
+SIFT detection with n=1438 keypoints in 109.177 ms
+#2 : DETECT KEYPOINTS done

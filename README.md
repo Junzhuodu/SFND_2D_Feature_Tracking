@@ -32,3 +32,38 @@ See the classroom instruction and code comments for more details on each of thes
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./2D_feature_tracking`.
+
+## Results
+
+### Keypoints detected
+Total number of keypoints in every image for each detector (SHITOMASI, HARRIS, FAST, BRISK, ORB, AKAZE, SIFT)
+
+<img src="results/NumOfKeyPoints.png" />
+
+Corresponding time taken for each detector in every image
+
+<img src="results/TimeOfKeyPoints.png" />
+
+### Matched Keypoints 
+
+Averaged number of matched keypoints for all images using all possible combinations of detectors and descriptors 
+
+<img src="results/MeanNumOfMatches.png" />
+
+Corresponding averaged time taken for all possible combinations of detectors and descriptors 
+
+<img src="results/MeanTimeOfMatches.png" />
+
+### Conclusion
+
+To balance the accuracy and speed for each detector / descriptor combination, the ratio of mean-num-of-matched-keypoints to mean-detection-time-taken is used to evaluate the overall performance. 
+
+<img src="results/performance.png" />
+
+The TOP-3 detector-descriptor combinations are:
+
+| rank | detector | descriptor |
+|:------:|:------:|:------:|
+| 1 | FAST | BRIEF |
+| 2 | FAST | ORB |
+| 3 | SHITOMASI | BRIEF |

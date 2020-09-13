@@ -1,0 +1,77 @@
+#1 : LOAD IMAGE (index:0) INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 13.443 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.2183 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE (index:1) INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 12.0437 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.4804 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=66 matches in 1.435 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE (index:2) INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 9.7537 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 18.5755 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=67 matches in 1.82824 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE (index:3) INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 7.95356 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.3976 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=67 matches in 1.85933 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE (index:4) INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 7.86861 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.4752 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=64 matches in 1.24317 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE (index:5) INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 7.96769 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.3484 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=61 matches in 1.22352 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE (index:6) INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 8.71224 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.2199 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=64 matches in 1.16333 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE (index:7) INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 7.71637 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.5185 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=60 matches in 2.27805 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE (index:8) INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 8.44282 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.2835 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=66 matches in 1.22077 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image
+#1 : LOAD IMAGE (index:9) INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 9.88273 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.4439 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=62 matches in 1.15623 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Press key to continue to next image

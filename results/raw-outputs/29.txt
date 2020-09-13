@@ -1,0 +1,68 @@
+#1 : LOAD IMAGE (index:0) INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 69.7193 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 41.3968 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE (index:1) INTO BUFFER done
+AKAZE detection with n=1327 keypoints in 55.4641 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 41.4359 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=128 matches in 1.97695 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:2) INTO BUFFER done
+AKAZE detection with n=1311 keypoints in 54.7478 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 42.2131 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=130 matches in 1.78436 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:3) INTO BUFFER done
+AKAZE detection with n=1351 keypoints in 53.6362 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 43.5744 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=126 matches in 1.89827 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:4) INTO BUFFER done
+AKAZE detection with n=1360 keypoints in 53.8172 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 42.4022 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=115 matches in 1.95228 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:5) INTO BUFFER done
+AKAZE detection with n=1347 keypoints in 59.2582 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 45.0341 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=120 matches in 2.04429 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:6) INTO BUFFER done
+AKAZE detection with n=1363 keypoints in 53.4015 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 51.2588 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=132 matches in 2.68132 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:7) INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 67.1062 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 51.5142 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=138 matches in 1.98676 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:8) INTO BUFFER done
+AKAZE detection with n=1358 keypoints in 74.6948 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 53.3213 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=137 matches in 2.87249 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:9) INTO BUFFER done
+AKAZE detection with n=1331 keypoints in 67.6444 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 60.0523 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=143 matches in 3.18804 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done

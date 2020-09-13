@@ -1,0 +1,68 @@
+#1 : LOAD IMAGE (index:0) INTO BUFFER done
+SIFT detection with n=1438 keypoints in 127.117 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.10039 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE (index:1) INTO BUFFER done
+SIFT detection with n=1371 keypoints in 77.5321 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.04313 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=64 matches in 1.34594 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:2) INTO BUFFER done
+SIFT detection with n=1380 keypoints in 77.0115 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.998023 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=73 matches in 1.15344 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:3) INTO BUFFER done
+SIFT detection with n=1335 keypoints in 80.0015 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.09704 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=64 matches in 1.14992 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:4) INTO BUFFER done
+SIFT detection with n=1305 keypoints in 76.0601 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.09616 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=66 matches in 1.25791 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:5) INTO BUFFER done
+SIFT detection with n=1369 keypoints in 77.6765 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.0235 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=51 matches in 1.20894 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:6) INTO BUFFER done
+SIFT detection with n=1396 keypoints in 78.2713 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.992506 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=59 matches in 1.52921 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:7) INTO BUFFER done
+SIFT detection with n=1382 keypoints in 78.2448 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.09136 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=75 matches in 1.25687 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:8) INTO BUFFER done
+SIFT detection with n=1463 keypoints in 92.4732 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.11635 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=70 matches in 1.28934 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:9) INTO BUFFER done
+SIFT detection with n=1422 keypoints in 99.5435 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.25922 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=85 matches in 1.36029 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done

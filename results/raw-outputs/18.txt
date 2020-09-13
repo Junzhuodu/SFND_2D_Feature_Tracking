@@ -1,0 +1,68 @@
+#1 : LOAD IMAGE (index:0) INTO BUFFER done
+BRISK detection with n=2757 keypoints in 177.115 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.1466 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE (index:1) INTO BUFFER done
+BRISK detection with n=2777 keypoints in 151.097 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.7387 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=117 matches in 2.79216 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:2) INTO BUFFER done
+BRISK detection with n=2741 keypoints in 150.354 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.0068 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=122 matches in 2.87622 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:3) INTO BUFFER done
+BRISK detection with n=2735 keypoints in 151.643 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 25.2654 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=112 matches in 2.93473 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:4) INTO BUFFER done
+BRISK detection with n=2757 keypoints in 167.275 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.7939 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=117 matches in 3.8133 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:5) INTO BUFFER done
+BRISK detection with n=2695 keypoints in 161.654 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 23.6454 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=103 matches in 3.67255 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:6) INTO BUFFER done
+BRISK detection with n=2715 keypoints in 163.144 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.4449 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=132 matches in 3.99306 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:7) INTO BUFFER done
+BRISK detection with n=2628 keypoints in 159.242 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 23.1279 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=146 matches in 2.85705 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:8) INTO BUFFER done
+BRISK detection with n=2639 keypoints in 151.483 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.8549 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=128 matches in 2.80073 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:9) INTO BUFFER done
+BRISK detection with n=2672 keypoints in 150.758 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.5291 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=130 matches in 2.86194 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done

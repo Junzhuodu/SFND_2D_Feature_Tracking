@@ -1,0 +1,68 @@
+#1 : LOAD IMAGE (index:0) INTO BUFFER done
+FAST detection with n=5063 keypoints in 1.53082 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.60295 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE (index:1) INTO BUFFER done
+FAST detection with n=4952 keypoints in 1.29753 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.23786 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=227 matches in 4.20626 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:2) INTO BUFFER done
+FAST detection with n=4863 keypoints in 2.2759 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.3244 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=240 matches in 3.88603 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:3) INTO BUFFER done
+FAST detection with n=4840 keypoints in 1.28831 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.29656 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=221 matches in 3.84718 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:4) INTO BUFFER done
+FAST detection with n=4856 keypoints in 1.25724 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.08633 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=230 matches in 3.94175 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:5) INTO BUFFER done
+FAST detection with n=4899 keypoints in 1.32366 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.24616 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=230 matches in 3.6881 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:6) INTO BUFFER done
+FAST detection with n=4870 keypoints in 1.27934 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.2475 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=232 matches in 4.29227 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:7) INTO BUFFER done
+FAST detection with n=4868 keypoints in 1.81344 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.50979 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=248 matches in 4.05231 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:8) INTO BUFFER done
+FAST detection with n=4996 keypoints in 1.46513 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.99075 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=233 matches in 4.00579 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE (index:9) INTO BUFFER done
+FAST detection with n=4997 keypoints in 1.4175 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.18075 ms
+#3 : EXTRACT DESCRIPTORS done
+MAT_FLANN , SEL_KNN find n=235 matches in 3.76761 ms
+#4 : MATCH KEYPOINT DESCRIPTORS done
